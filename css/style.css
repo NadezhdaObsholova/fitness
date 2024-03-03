@@ -1431,7 +1431,6 @@ button.swiper-pagination-bullet {
   font-style: normal;
   font-weight: 400;
   font-family: "RobotoCondensed";
-  src: url("../../fonts/RobotoCondensed/RobotoCondensed-Regular.woff") format("woff");
   src: url("../../fonts/RobotoCondensed/RobotoCondensed-Regular.woff2") format("woff2");
   font-display: swap;
 }
@@ -1439,7 +1438,6 @@ button.swiper-pagination-bullet {
   font-style: normal;
   font-weight: 300;
   font-family: "RobotoCondensed";
-  src: url("../../fonts/RobotoCondensed/RobotoCondensed-Light.woff") format("woff");
   src: url("../../fonts/RobotoCondensed/RobotoCondensed-Light.woff2") format("woff2");
   font-display: swap;
 }
@@ -1447,7 +1445,6 @@ button.swiper-pagination-bullet {
   font-style: normal;
   font-weight: 700;
   font-family: "RobotoCondensed";
-  src: url("../../fonts/RobotoCondensed/RobotoCondensed-Bold.woff") format("woff");
   src: url("../../fonts/RobotoCondensed/RobotoCondensed-Bold.woff2") format("woff2");
   font-display: swap;
 }
@@ -1455,7 +1452,6 @@ button.swiper-pagination-bullet {
   font-style: normal;
   font-weight: 600;
   font-family: "AlumniSans";
-  src: url("../../fonts/AlumniSans/AlumniSans-SemiBold.woff") format("woff");
   src: url("../../fonts/AlumniSans/AlumniSans-SemiBold.woff2") format("woff2");
   font-display: swap;
 }
@@ -1463,7 +1459,6 @@ button.swiper-pagination-bullet {
   font-style: normal;
   font-weight: 800;
   font-family: "AlumniSans";
-  src: url("../../fonts/AlumniSans/AlumniSans-ExtraBold.woff") format("woff");
   src: url("../../fonts/AlumniSans/AlumniSans-ExtraBold.woff2") format("woff2");
   font-display: swap;
 }
